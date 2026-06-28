@@ -23,4 +23,4 @@ and product delivery — turning complex problems into structured, measurable ou
 - [AI Incident Reporting System](https://github.com/mscsjanhavi/AI_Incident_Reporting_System)
 
 ## 📫 Let's Connect
-[LinkedIn](your-linkedin-url-here)
+[LinkedIn](https://www.linkedin.com/in/janhavisahasrabudhe/)
