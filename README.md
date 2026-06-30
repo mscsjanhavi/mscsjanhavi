@@ -8,7 +8,7 @@ and product delivery — turning complex problems into structured, measurable ou
 
 ---
 
-## 🚀 What I Built
+## 🚀 What I have Built
 - AI agents for program management and cloud optimization
 - Data pipelines and BI dashboards for executive decision-making
 - Structured delivery frameworks for cross-functional teams
