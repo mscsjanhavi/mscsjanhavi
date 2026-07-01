@@ -1,14 +1,14 @@
 # Hi, I'm Janhavi 👋
 
-**Program & AI Product Manager | Data-Driven Delivery | Cloud & Analytics**
+**Program Manager | Data-Driven Delivery | Cloud & Analytics**
 
 PM with 5+ years of experience across Microsoft Azure, analytics platforms, 
-and AI-powered systems. My work sits at the intersection of technology, data, 
+and trying to build AI-powered systems. My work sits at the intersection of technology, data, 
 and product delivery — turning complex problems into structured, measurable outcomes.
 
 ---
 
-## 🚀 What I have Built
+## 🚀 What I have built and am trying to build....
 - AI agents for program management and cloud optimization
 - Data pipelines and BI dashboards for executive decision-making
 - Structured delivery frameworks for cross-functional teams
