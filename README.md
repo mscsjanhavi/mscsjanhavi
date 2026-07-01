@@ -17,7 +17,6 @@ and product delivery — turning complex problems into structured, measurable ou
 `Azure` `Power BI` `SQL` `Python` `LangChain` `OpenAI API` `JIRA` `Confluence`
 
 ## 📂 Featured Work
-- [PM Portfolio](https://github.com/mscsjanhavi/pm-portfolio) — Case studies, AI projects, dashboards
 - [AI Cloud Cost Optimization](https://github.com/mscsjanhavi/AI-Cloud-Cost-Optimization-System)
 - [AI Program Intelligence System](https://github.com/mscsjanhavi/AI-Powered-Program-Intelligence-System)
 - [AI Incident Reporting System](https://github.com/mscsjanhavi/AI_Incident_Reporting_System)
