@@ -23,3 +23,14 @@ and product delivery — turning complex problems into structured, measurable ou
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/janhavisahasrabudhe/)
+
+## 📜 Certifications
+
+- 🎓 Executive Certificate — Business Analytics, Wharton School of Business
+- 🤖 Generative AI Overview for Project Managers — PMI
+- 🏆 McKinsey Forward Program — McKinsey.org
+- 🧠 CISCO AIBIZ, AITECH
+- 🚗 The Complete Self-Driving Car Course — Applied Deep Learning
+- 🌐 PMO Global Alliance — Member
+
+📁 [View All Certificates](https://drive.google.com/drive/folders/1q7P8p9CrxF0BDNwtZhdMNDIkHDtyst9H?usp=sharing)
